@@ -28,3 +28,4 @@ Kingfisher API image loading framework
 Having worked in the restaurant industry for 5 years managing a Japanese restaurant in New York City in past profession, it was a pleasure working with application built to inspire home cooking. I am interested in tackling this assignment using Kotlin in Jetpack Compose framework, but this will take more than 5 hours typically completed by other candidates. 
 
 <a ><img src=“https://github.com/mitsumoristudio/Foodies_Demos/blob/main/Modern%20Aesthetic%20Weekend%20To%20Do%20List%20Instagram%20Story-2.png”width= "256" height = "500" /></a>
+
