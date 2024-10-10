@@ -22,3 +22,7 @@ There was no significant tradeoff for this application. Perhaps spending more ti
 Using third party API for rendering and caching the image. Swifts Async Image has some issues and slow down in the past rendering the image based on image cache and size.
 
 ## External Code and Dependencies:
+Kingfisher API image loading framework
+
+## Additional Information: 
+Having worked in the restaurant industry for 5 years managing a Japanese restaurant in New York City in past profession, it was a pleasure working with application built to inspire home cooking. I am interested in tackling this assignment using Kotlin in Jetpack Compose framework, but this will take more than 5 hours typically completed by other candidates. 
