@@ -5,7 +5,7 @@
  (ContentView).
 
 ## App Focus Area
-The Food App offers variety of friendly features which makes it great experience for cooking at home.
+The Food App offers variety of friendly features which makes it great experience for cooking.
 - Search and Filter Options: Search button to find recipes based on world cuisine types and filters alphabetically.
 - Recipes Collections: Access the curated collection from your favorite confection. Simple one touch design to scroll through recipes in which the   combination of ScrollView and LazyVStack does not create new items unless
 the user needs to render and display onscreen.
