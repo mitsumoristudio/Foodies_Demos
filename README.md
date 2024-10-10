@@ -1,4 +1,4 @@
-# Foodies (Instructions)
+# Foodies (Instructions) IOS (Swift/SwiftUI)
  Foodies App was designed to satisfy your taste buds by allowing the user to interact popular International cuisines. 
  The target is setup for IOS 17.5 minimum and configured to be utilizied for Iphone 12 and above.
  For building and running the app, click on the Product and Run button through XCode and it will diplay the parent view
