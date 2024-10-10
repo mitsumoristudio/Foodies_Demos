@@ -30,5 +30,6 @@ Having worked in the restaurant industry for 5 years managing a Japanese restaur
 ## App Features
 
 <img src="Modern Aesthetic Weekend To Do List Instagram Story.png" width="256" height = "500" />
-<img src="Simulator Screen Recording - iPhone 15 - 2024-10-10 at 12.03.42.mp4" width="256" height = "500" />
+<img src="" width="256" height = "500" />
+<img src="" width="256" height = "500" />
 
