@@ -27,5 +27,5 @@ Kingfisher API image loading framework
 ## Additional Information: 
 Having worked in the restaurant industry for 5 years managing a Japanese restaurant in New York City in past profession, it was a pleasure working with application built to inspire home cooking. I am interested in tackling this assignment using Kotlin in Jetpack Compose framework, but this will take more than 5 hours typically completed by other candidates. 
 
-<img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/4e44db2db5e8f570b82aae1cb9c837433fe63948/Daily%20Activity%20Intro.gif" width="256" height = "500" />
+<img src="" width="256" height = "500" />
 
